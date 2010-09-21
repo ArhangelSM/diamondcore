@@ -1,1 +1,0 @@
-UPDATE `pet_aura` SET remaincharges = 0 WHERE remaincharges = 255;

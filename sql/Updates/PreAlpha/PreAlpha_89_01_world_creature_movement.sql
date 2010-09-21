@@ -1,4 +1,0 @@
-
-
-ALTER TABLE creature_movement 
-ADD COLUMN script_id MEDIUMINT(8) UNSIGNED NOT NULL DEFAULT '0' AFTER waittime;
